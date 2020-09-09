@@ -16,3 +16,12 @@ li {
     text-decoration: none;
     line-height: 30px;
 }
+
+.isDisabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+    color: currentColor;
+    font-style: italic;
+    pointer-events: none;
+    text-decoration: none;
+}
