@@ -1,3 +1,6 @@
 [submodule "projet_3"]
 	path = projet_3
 	url = https://github.com/sodanlabs/openclassrooms_p3
+[submodule "projet_4"]
+	path = projet_4
+	url = https://github.com/sodanlabs/openclassrooms_p4.git
